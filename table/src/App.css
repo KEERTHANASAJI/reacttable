@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#de{
+text-transform: uppercase;
+font-weight: bold;
+font-size: medium;
+}
+#se{
+  margin-left: 85em;
+  color: black;
+}
+#ba{
+  color: black;
+  font-weight: bold;
+  font-size: larger;
+}
